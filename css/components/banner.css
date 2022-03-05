@@ -1,0 +1,23 @@
+
+.banner{
+	background-image: url(../../images/travel.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-attachment:center;
+	background-position: center;
+	text-align: center;
+}
+
+
+.banner h1 {
+	font-size: 40px;
+	text-align: center;
+}
+.banner  h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.6;
+	margin-bottom:40px ;
+	text-align: center;
+ }
